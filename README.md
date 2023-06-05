@@ -1,5 +1,5 @@
 # About Gabe Fletcher
-Gabe is a sound engineer and web developer working to make modified software accessible to everyone that uses Android and iOS.\
+Gabe is a sound engineer and web developer working to make modified software accessible to everyone.\
 Visit Gabe's portfolio site at [dub.sh/gabe](https://dub.sh/gabe)
 ## Gabe's Projects
 ### Optimal
