@@ -8,7 +8,7 @@ An online repository of modified Android and iOS apps that offers direct downloa
 
 Visit Optimal at [dub.sh/optimal](https://dub.sh/optimal)
 ### Optimal Docs
-An extensive wiki, documentation page, and legal resources site for the Optimal project hosted via GitBook. You can view the Markdown-based data for Optimal Docs at [gabefletch/optimal-docsV3](https://github.com/gabefletch/optimal-docsV3)
+An extensive wiki, documentation page, and legal resources site for the Optimal project hosted via GitBook. You can view the Markdown-based data for Optimal Docs at [gabefletch/optimal-docsV3](https://github.com/gabefletch/optimal-docsV3).
 
 Visit Optimal Docs at [dub.sh/optimaldocs](https://dub.sh/optimaldocs) 
 ### And more...
