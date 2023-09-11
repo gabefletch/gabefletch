@@ -19,6 +19,7 @@ Visit Optimal Docs at [dub.sh/optimaldocs](https://dub.sh/optimaldocs).
 
 ### What gear do you use?<br>
 Here's a list of devices used for development by Gabe and others for Optimal and other projects found here on GitHub:<br>
+
 Gabe Fletcher (Optimal Lead Developer)<br>
 - **MacBook Air (M1, 2020)** *for AltServer on Mac testing.*<br>
 - **MacBook Air (M2, 2022)** for AltServer on Supervised Mac testing.<br>
