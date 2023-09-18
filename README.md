@@ -18,19 +18,4 @@ Visit Optimal Docs at [dub.sh/optimaldocs](https://dub.sh/optimaldocs).
 [Explore Gabe's Repositories](https://github.com/gabefletch?tab=repositories)
 
 ### What gear do you use?<br>
-Here's a list of devices used for development by Gabe and others for Optimal and other projects found here on GitHub:<br>
-
-Gabe Fletcher (Optimal Lead Developer)<br>
-- **MacBook Air (M1, 2020)** *for AltServer on Mac testing.*<br>
-- **MacBook Air (M2, 2022)** for AltServer on Supervised Mac testing.<br>
-- **iPad (9th Generation)** for AltStore on Supervised iPad testing.<br>
-- **Custom Windows PC** *for website development, AltServer on Windows testing, Android Subsystem for Windows testing.*<br>
-- **iPhone 14 Pro Max** *for AltStore testing.*<br>
-- **Google Pixel 4** (via Android Studio) *for Android app testing.*<br>
-
-[Ella Hawkins](https://ellahawkins.me) (iOS/iPadOS Field Tester)<br>
-- **iPhone 14** *for AltStore iOS field testing.*<br>
-- **iPad Pro 12.9' (3rd Generation)** *for AltStore iPad field testing.*<br>
-
-[John Fdoul](https://instagram.com/john_fdoul) (Android Field Tester)<br>
-- **Samsung Galaxy S20 FE** *for Android system variation app testing.*<br>
+A list of equipment/devices used for development of the Optimal project can be found [here](https://optimaldocs.gitbook.io/optimal-docs-v3/documentation/optimal-on-readymag/real-hardware-testing).
