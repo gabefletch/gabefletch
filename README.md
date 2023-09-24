@@ -17,5 +17,5 @@ Visit Optimal Docs at [dub.sh/optimaldocs](https://dub.sh/optimaldocs).
 ### And more...
 [Explore Gabe's Repositories](https://github.com/gabefletch?tab=repositories)
 
-### What gear do you use?<br>
+### What gear do you use?
 A list of equipment/devices used for development of the Optimal project can be found [here](https://optimaldocs.gitbook.io/optimal-docs-v3/documentation/optimal-on-readymag/real-hardware-testing).
