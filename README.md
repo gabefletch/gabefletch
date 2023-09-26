@@ -1,5 +1,6 @@
 # About Gabe Fletcher
-Gabe is a sound engineer and web developer working to make modified software accessible to everyone.
+Gabe is a sound designer and web developer attending Shenandoah University in Winchester, VA.<br>
+Gabe is also an avid believer in ethical hacking and software modification that benefits the masses.<br>
 
 ## Gabe's Projects
 ### The Gabe Fletcher Landing Page
@@ -14,6 +15,10 @@ Optimal is created with support from [Ella Hawkins](https://instagram.com/e.t.ha
 An extensive wiki, documentation page, and legal resources site for the Optimal project hosted via GitBook.<br>
 You can view the raw Markdown-based data for Optimal Docs at [gabefletch/optimal-docsV3](https://github.com/gabefletch/optimal-docsV3).<br>
 Visit Optimal Docs at [dub.sh/optimaldocs](https://dub.sh/optimaldocs).
+
+### Dub Contributor
+I've used the opensource [Dub link shortening service](https://github.com/steven-tey/dub/#readme) for my projects since just after its release and recently began contributing here on Github.
+
 ### And more...
 [Explore Gabe's Repositories](https://github.com/gabefletch?tab=repositories)
 
