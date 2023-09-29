@@ -1,4 +1,4 @@
-<h1>About Gabe Fletcher</h1>
+# About Gabe Fletcher
 
 Gabe is a sound designer and web developer attending Shenandoah University in Winchester, VA.<br>
 Gabe is also an avid believer in ethical hacking and software modification that benefits the masses.<br>
