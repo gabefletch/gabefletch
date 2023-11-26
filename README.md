@@ -17,7 +17,7 @@ You can view the raw Markdown-based data for Optimal Docs at [gabefletch/optimal
 Visit Optimal Docs at [dub.sh/optimaldocs](https://dub.sh/optimaldocs).
 
 ### Dub Contributor
-I've used the opensource [Dub link shortening service](https://github.com/steven-tey/dub/#readme) for my projects since just after its release and recently began contributing here on Github.
+I've used the opensource [Dub link shortening service](https://github.com/steven-tey/dub/#readme) for my projects since just after its release and recently began contributing here on Github. It's a great project you should absolutely be using.
 
 ### And more...
 [Explore Gabe's Repositories](https://github.com/gabefletch?tab=repositories)
