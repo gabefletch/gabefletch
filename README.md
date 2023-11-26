@@ -11,7 +11,6 @@ Code at [gabefletch/site](https://github.com/gabefletch/site).
 An online repository of modified Android and iOS apps that offers direct downloads to circumvent sketchy sites and phishing risks.<br>
 You can view Optimal's open-source code at [gabefletch/optimal-v11](https://github.com/gabefletch/optimal-v11).<br>
 Visit Optimal at [dub.sh/optimal](https://dub.sh/optimal).<br>
-Optimal is created with support from [Ella Hawkins](https://instagram.com/e.t.hawkins) and [John Fdoul](https://instagram.com/john_fdoul).
 ### Optimal Docs
 An extensive wiki, documentation page, and legal resources site for the Optimal project hosted via GitBook.<br>
 You can view the raw Markdown-based data for Optimal Docs at [gabefletch/optimal-docsV3](https://github.com/gabefletch/optimal-docsV3).<br>
