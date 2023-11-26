@@ -5,8 +5,8 @@ Gabe is also an avid believer in ethical hacking and software modification that 
 
 ## Gabe's Projects
 ### The Gabe Fletcher Landing Page
-My personal portfolio site, found at [dub.sh/gabe](https://dub.sh/gabe) and hosted by Webflow CMS.<br> 
-HTML, JS, and CSS code at [gabefletch/site](https://github.com/gabefletch/site).
+My personal portfolio site, found at [dub.sh/gabe](https://dub.sh/gabe).<br> 
+Code at [gabefletch/site](https://github.com/gabefletch/site).
 ### Optimal
 An online repository of modified Android and iOS apps that offers direct downloads to circumvent sketchy sites and phishing risks.<br>
 You can view Optimal's open-source code at [gabefletch/optimal-v11](https://github.com/gabefletch/optimal-v11).<br>
