@@ -23,4 +23,15 @@ I've used the opensource [Dub link shortening service](https://github.com/steven
 [Explore Gabe's Repositories](https://github.com/gabefletch?tab=repositories)
 
 ### What gear do you use?
-A list of equipment/devices used for development of the Optimal project can be found [here](https://optimaldocs.gitbook.io/optimal-docs-v3/documentation/optimal-on-readymag/real-hardware-testing).
+**iOS Development:**<br>
+iPhone 14 Pro Max (A2651)<br>
+
+**macOS Development:**<br>
+13" M1 MacBook Air (2020)<br>
+13" M2 MacBook Air (2022)<br>
+
+**Windows Development:**<br>
+Custom PC (i7 12700, RTX 3060, 16GB DDR4, AtlasOS v0.3.2)<br>
+
+**watchOS Testing:**<br>
+Apple Watch Series 5 (Nike)<br>
