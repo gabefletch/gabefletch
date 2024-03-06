@@ -25,6 +25,7 @@ I've used the opensource [Dub link shortening service](https://github.com/steven
 ### What gear do you use?
 **iOS Development:**<br>
 iPhone 14 Pro Max (A2651)<br>
+Xcode Simulator<br>
 
 **macOS Development:**<br>
 13" M1 MacBook Air (2020)<br>
