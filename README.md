@@ -26,8 +26,7 @@ iPhone 14 Pro Max (A2651)<br>
 Xcode Simulator<br>
 
 **macOS Development:**<br>
-13" M1 MacBook Air (2020)<br>
-13" M2 MacBook Air (2022)<br>
+13" MacBook Air (M1, 2020)<br>
 
 **Windows Development:**<br>
 Custom PC (i7 12700, RTX 3060, 16GB DDR4, AtlasOS v0.3.2)<br>
