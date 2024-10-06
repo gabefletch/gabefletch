@@ -1,7 +1,6 @@
 # About Gabe Fletcher
 
-Gabe is a sound designer and web developer.<br>
-Gabe is also an avid believer in ethical hacking and software modification that benefits the masses.<br>
+Gabe is a sound designer and web developer with an avid belief in ethical hacking and software modification that benefits the masses.<br>
 
 ## Gabe's Projects
 ### The Gabe Fletcher Landing Page
