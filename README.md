@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabe Fletcher</h1>
 <h3 align="center">A passionate sound designer and hobbyist open source dev.</h3>
 
-- 🔭 I’m currently working on [ReVanced Base Apps (RVBA)](https://github.com/gabefletch/rvba)
+- 🔭 I’m currently working on [FirstView](https://github.com/gabefletch/FirstView), and [ReVanced Base Apps (RVBA)](https://github.com/gabefletch/rvba)
 
 - 📫 How to reach me **talk@gabefletcher.net**
 
